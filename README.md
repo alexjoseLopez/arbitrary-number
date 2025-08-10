@@ -67,6 +67,19 @@ Now given that a whole novel in plain text format can be represented as a Base 2
 
 To be continued..."
 
+"Chapter 2"
+
+We have discovered a strange sort of number that while hidden from the Rational Number system can be brought back into it through the Quandition of only 1 unit i.e apply the following operation, consider the following SimpleArbitraryNumber:
+
+SimpleArbitraryNumeber:   +(500000/(0/1))*(500000/(1/1)
+
+We simply Quandite the following SimpleArbitraryNumber to it:
+
++(0/(1/0))*(0/(0/0)
+
+then it brings the previous Number back to the Rational number line at a high magnitude.  Note that through various other Quandites the point can be moved almost anywhere else on the numberline through quandition with low magnitude numbers rapidly
+
+...  
 ...
 
 # Arbitrary Numbers: Exact Symbolic Computation for Python
