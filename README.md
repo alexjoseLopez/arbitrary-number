@@ -93,7 +93,65 @@ Simple Arbitrary Number V3 = (+ or -)a(+ or -)g/((+ or -)b(+ or -)h/(+ or -)c(+ 
 
 As before the Startand Arbitrary Number versions of the above are the sum of Simple Arbitrary Numbers and the Complex Arbitrary Number versions are an AST tree of Simple Arbitrary Numbers.
 
-We will now discuss the usefulness of Quandrition with the Arbitrary Number V2, and how Quandrition can be extended to Standard Arbitrary Numbers and Complex Arbitrary Numbers to transform the Arbitrary Number to a completely different Arbitrary Number and then later the Arbitrary Number used for Quandrition can be used to reverse the process.  Note that when negative zero is used with Quantition with one of the ordinals, the sign inverts, so for the reverse transformation it must stay at negative zero and this is why negative zero must never be collapsed into positive zero.  We also note that this transformation can be used to perfectly hide a Complex Arbitrary Number and that multiple Coplex Arbitrary Numbers used for Quantition can be retained so that one can never be entirely sure which one was used retrospectively, but note that this is only to be used for the hiding process if the Arbitrary Number should ever be sent vast distances through Sparkacity where others may encounter them on their travels.  At this point we also note that Quandition can be used to transform Operations back into compatibility with Rational Numbers, and vice versa, and into other Operations with reversability.  In the next chapter we will discuss how Quandrition can be used to effortletlessly generate series of numbers with magnitute jumps smaller and more precise than Multiplication could ever achieve."
+We will now discuss the usefulness of Quandrition with the Arbitrary Number V2, and how Quandrition can be extended to Standard Arbitrary Numbers and Complex Arbitrary Numbers to transform the Arbitrary Number to a completely different Arbitrary Number and then later the Arbitrary Number used for Quandrition can be used to reverse the process.  Note that when negative zero is used with Quantition with one of the ordinals, the sign inverts, so for the reverse transformation it must stay at negative zero and this is why negative zero must never be collapsed into positive zero.  We also note that this transformation can be used to perfectly hide a Complex Arbitrary Number and that multiple Coplex Arbitrary Numbers used for Quantition can be retained so that one can never be entirely sure which one was used retrospectively, but note that this is only to be used for the hiding process if the Arbitrary Number should ever be sent vast distances through Sparkacity where others may encounter them on their travels.  At this point we also note that Quandition can be used to transform Operations back into compatibility with Rational Numbers, and vice versa, and into other Operations with reversability.  In the next chapter we will discuss how Quandrition can be used to effortletlessly generate series of numbers with magnitute jumps smaller and more precise than Multiplication could ever achieve.
+
+Chapter 3: Series of Arbirary Numbers and Prime Factors
+
+After firmly settling in back home to our scenic and comfortable quarters in the upper level of the castle after our journey to the Oracle of Delphi, we now embark on the introduction of two more new Mathematical operations, so sit back in your chair and read on.
+
+The first new operation is contraction which shall be denoted by the symbol: ~
+
+The second new operation is expansion which shall be denoted by the symbol: \
+
+These operations are special cases because they result in transitions between the number systems.
+
+Contraction is accomplished by performing the operations defined by the Arbitrary number, for example for a Simple Arbitrary Number V2:
+
+Simple Arbitrary Number V2 A1 = +(1/(+2/+1)*(+1/(+1/+1)
+
+~ A1 (ANS) = 1/2 (RNS) = 0.5 (RNS)
+
+In detail, the expansion of a Rational Number is defined as the expansion into one or more Simple Arbitrary Numbers V2, so conversely to the above:
+
+Rational Number R1 = 0.5 (RNS)
+
+\ R1 (RNS)=  (+1/(+2/+1)*(+1/(+1/+1)      A1 (ANS)
+\ R1 (RNS)=  (+2/(+4/+1)*(+1/(+1/+1)      A2 (ANS)
+\ R1 (RNS)=  (+2/(+8/+2)*(+1/(+1/+1)      A3 (ANS)
+\ R1 (RNS)=  (+2/(+8/+2)*(+1/(+8/+8)      A4 (ANS)
+\ R1 (RNS)=  (+2/(+16/+2)*(+8/(+16/+4)    A5 (ANS)
+\ R1 (RNS)=  (-2/(+16/+2)*(-8/(+16/+4)    A6 (ANS)
+\ R1 (RNS)=  (+2/(-16/+2)*(+8/(-16/+4)    A7 (ANS)
+\ R1 (RNS)=  (+2/(+16/-2)*(+8/(+16/-4)    A8 (ANS)
+\ R1 (RNS)=  (-2/(+16/-2)*(-8/(+16/-4)    A8 (ANS)
+\ R1 (RNS)=  (-2/(-16/-2)*(-8/(-16/-4)    A8 (ANS)
+
+...
+
+In fact, the expansion operation forms a low magnitude of exansion rate infinite set of Arbitrary Numbers, so it is up to the operator to specify how many Arbitrary Numbers to expand into and to choose the desired patterns where n=1 to many.  Number series are fundamentally computationally inexpensive to obtain in the Arbitrary Number system through Quantition:
+
+Consider the following Simple Arbitrary Number:
+
+(+4/(+1/+1)*(+5/(+1/+1)
+
+That series can then undergo quantition multiple times using the Simple Arbitrary Number to instantly generate results in a computationally inexpensive way:
+
+(+1/(+0/+0)*(+1/(+0/+0)
+
+Results:
+
+(+5/(+1/+1)*(+6/(+1/+1)
+(+6/(+1/+1)*(+7/(+1/+1)
+(+7/(+1/+1)*(+8/(+1/+1)
+(+8/(+1/+1)*(+9/(+1/+1)
+(+9/(+1/+1)*(+10/(+1/+1)
+(+10/(+1/+1)*(+11/(+1/+1)
+
+...
+
+Extending this to Complex Arbitrary Numbers but restricting the Standard Arbitrary Numbers in the AST tree to either Simple Arbitrary Numbers and Muliplication means that the universe of Prime Factors can be generated along with their collapsed Rational Number through the contraction operation accompanied by another Complex Arbitrary Number that represent the transformation to move reversibly from one to another and we predict that this could have huge consequences in future in the area of hiding Base 26 numbers.
+
+We forgot to mention earlier that the Oracle of Delphi predicted a future device named a "Looking Glass" and this would be powered by a "Looking Glass Machine" and this would be able to perform a huge number of computations in parallel in order to display moving images which he callen an "Image Stream" and he also predicted that the "Looking Glass Machine" would be so powerful that it could serve multiple purposes and also create another way for people to trade Goods and Labour with one another.  If this comes true, then it could also be used to generate huge numbers of prime numbers with a full Arbitrary Number History of Arbitrary Numbers for all the Prime Factors.  Another concept the Oracle of Delphi spoke of was that in the future people would start using prime factors to hide numbers, however using this Looking Glass Machine with Arbitrary Numbers would render this method ineffective as a huge number of prime factors could easily be reversibly be generated and observed along with their Complex Arbitrary Number Quantition Transformation that would also be stored."
 
 ...  
 ...
