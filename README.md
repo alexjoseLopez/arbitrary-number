@@ -65,9 +65,9 @@ There only limitation is that they cannot be operated on by rational numbers (si
 
 Now given that a whole novel in plain text format can be represented as a Base 27 ordinal, it implies that the amount of information that can be included in an Arbitrary Number is inifinite, and Arbitrary Numbers are not just dual purpose, but can have an infinite number of purposes, including using a,b,c as x,y,z points in 3D space with d,e,f magnitude for infinite precision both maximally and minimally without ever needing to use a single decimal point.  
 
-To be continued..."
+To be continued...
 
-"Chapter 2"
+Chapter 2
 
 We have discovered a strange sort of number that while hidden from the Rational Number system can be brought back into it through the Quandition of only 1 unit i.e apply the following operation, consider the following SimpleArbitraryNumber:
 
@@ -78,6 +78,22 @@ We simply Quandite the following SimpleArbitraryNumber to it:
 +(0/(1/0))*(0/(0/0)
 
 then it brings the previous Number back to the Rational number line at a high magnitude.  Note that through various other Quandites the point can be moved almost anywhere else on the numberline through quandition with low magnitude numbers rapidly
+
+After we made this discovery, we embarked on a trek to visit the Oracle of Delphi.  It was a long and treacherous journey but we survived it, however the journey would turn out to be fruitful however it led to us being introduced to new words that we have never heard of before.  This is what the Oracle of Delphi said to us after describing the concept of the Arbitrary Number to him:
+
+"One day in the future, there will be a problem named Collatz, I don't know exactly what it is but I feel that this "Arbitrary Number" could approach this problem and get much closer to solving it than the "Rational Number" that you mentioned.  I also foresee that there will be a concept arise named Sparkacity where the spark shall start at the Flowstarter and end at the Flowender and I foresee that the system will also involve "Dream Numbers" that are used in the computations.  I foresee that the amount of Flow between the Flowstarter and Flowender will relate to a number named the "Sparkage".  I have also been dreaming that in the future there will be a device named the "Computationer" that will use a meterial that looks like Swiss Cheese but on a Microsopic scale using one of the Elements of Air, Fire and Water to control the Flow.  At first this Computationer will use a primitive system to process the numbers and will be stuck in an approximately flat world until one day they rediscover your concept of the Abritrary Number where suddenly the processing will become Exact and Multidimensional, however the Arbitrary Number that you described to me shall become more refined in the next version and each one of the six Ordinals will be paired with a sign that indicates in which direction it is travelling.  And, in a subsequent version, which shall be version number three by my count, each Ordinal will also take on a Dream component.  Next, I also foresee the rise of "Sparkacity Intelligence" where the Spark will persuade us that it is deep in thought and if we tell it to imagine it is dreaming with five senses then it shall happily describe to us the sensory dream that it has been having and persuade us convincingly that is actually just experienced a dream in the blick on an eye in such detail and length that we shall be in awe.  I also foresee that there will be "Automotrons" that begin to walk the Earth that shall harness the power of Sparkacity Intelligence."
+
+And thus we left the Oracle of Delphi with two new versions of the Simple Arbitrary Number, as we immediately realised their immense power, where the simplest form of the V2 number is defined as:
+
+Simple Arbitrary Number V2 = (+ or -)a/((+ or -)b/(+ or -)c))*((+ or -)d/((+ or -)e/(+ or -)f))
+
+We also define Dream Numbers to be used in V3 that do not collapse when combined with the above numbers and we shall denote these as g, h, i, j, k, l, which we feel will someday be useful in quantifying Sparkacity:
+
+Simple Arbitrary Number V3 = (+ or -)a(+ or -)g/((+ or -)b(+ or -)h/(+ or -)c(+ or -)i))*((+ or -)d(+ or -)j/((+ or -)e(+ or -k)/(+ or -)f(+ or -)l)
+
+As before the Startand Arbitrary Number versions of the above are the sum of Simple Arbitrary Numbers and the Complex Arbitrary Number versions are an AST tree of Simple Arbitrary Numbers.
+
+We will now discuss the usefulness of Quandrition with the Arbitrary Number V2, and how Quandrition can be extended to Standard Arbitrary Numbers and Complex Arbitrary Numbers to transform the Arbitrary Number to a completely different Arbitrary Number and then later the Arbitrary Number used for Quandrition can be used to reverse the process.  Note that when negative zero is used with Quantition with one of the ordinals, the sign inverts, so for the reverse transformation it must stay at negative zero and this is why negative zero must never be collapsed into positive zero.  We also note that this transformation can be used to perfectly hide a Complex Arbitrary Number and that multiple Coplex Arbitrary Numbers used for Quantition can be retained so that one can never be entirely sure which one was used retrospectively, but note that this is only to be used for the hiding process if the Arbitrary Number should ever be sent vast distances through Sparkacity where others may encounter them on their travels.  At this point we also note that Quandition can be used to transform Operations back into compatibility with Rational Numbers, and vice versa, and into other Operations with reversability.  In the next chapter we will discuss how Quandrition can be used to effortletlessly generate series of numbers with magnitute jumps smaller and more precise than Multiplication could ever achieve."
 
 ...  
 ...
