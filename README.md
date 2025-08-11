@@ -157,10 +157,12 @@ Chapter 4
 
 The Oracle of Delphi also predicted that in the future there will be special squares that people will possess and use to buy and sell goods and labour.
 
-He said that there would be interesting numbers and told us to write them down as squares, the numbers he spoke of were 0,1,7,19,26,236,255 and 256.  He told us that these numbers would curve through the air and these curves would be used to hide these numbers from others.  He told use that @@ is 0, aa is 1, ag is 7, at is 19, az is 26, ig is 236, iy is 255.  "What about 256?" we asked since he had mentioned it previously and he replied 256 would be iz but iz doesn't exist and as soon as you thought of iz, it would immediately vanish and change into @@.  "How does it vanish?" we asked and he replied, because this number is "based" he replied.
+He said that there would be interesting numbers and told us to write them down as squares, the numbers he spoke of were 0,1,7,19,26,236,255 and 256.  He told us that these numbers would curve through the air and these curves would be used to hide these numbers from others.  He told use that 0 becomes @@, 1 becomes aa, 7 becomes ag, 19 becomes as, 26 becomes az, 236 becomes jb, and 255 becomes ju.  "What about 256?" we asked since he had mentioned it previously and he replied 256 would be jv but jv doesn't exist and as soon as you thought of jv, it would immediately vanish and change into @@.  "How does it vanish?" we asked and he replied, because this number is "based" he replied.
 
 He then showed us a series of these squares and told us to copy them down on paper:
 
+0:
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -177,6 +179,8 @@ He then showed us a series of these squares and told us to copy them down on pap
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+1:
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -195,6 +199,8 @@ He then showed us a series of these squares and told us to copy them down on pap
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@aa
 
+17:
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -212,6 +218,8 @@ He then showed us a series of these squares and told us to copy them down on pap
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ag
 
+19:
+
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -227,7 +235,9 @@ He then showed us a series of these squares and told us to copy them down on pap
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@at
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@as
+
+26:
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -246,22 +256,7 @@ He then showed us a series of these squares and told us to copy them down on pap
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@az
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ig
+236:
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -278,26 +273,10 @@ He then showed us a series of these squares and told us to copy them down on pap
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@iy
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@jb
 
-ig@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+255:
 
-iy@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -313,7 +292,46 @@ iy@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ju
 
+2^256-19:
+
+jbjujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+
+2^256-1:
+
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+jujujujujujujujujujujujujujujuju
+ 
 ...
 
 # Arbitrary Numbers: Exact Symbolic Computation for Python
