@@ -163,6 +163,7 @@ He then showed us a series of these squares and told us to copy them down on pap
 
 0:
 
+```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -179,9 +180,11 @@ He then showed us a series of these squares and told us to copy them down on pap
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+```
 
 1:
 
+```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -198,9 +201,11 @@ He then showed us a series of these squares and told us to copy them down on pap
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@aa
+```
 
 17:
 
+```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -217,9 +222,11 @@ He then showed us a series of these squares and told us to copy them down on pap
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ag
+```
 
 19:
 
+```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -236,9 +243,11 @@ He then showed us a series of these squares and told us to copy them down on pap
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@as
+```
 
 26:
 
+```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -255,9 +264,11 @@ He then showed us a series of these squares and told us to copy them down on pap
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@az
+```
 
 236:
 
+```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -274,9 +285,11 @@ He then showed us a series of these squares and told us to copy them down on pap
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@jb
+```
 
 255:
 
+```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -293,9 +306,11 @@ He then showed us a series of these squares and told us to copy them down on pap
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ju
+```
 
 2^256-19:
 
+```
 jbjujujujujujujujujujujujujujuju
 jujujujujujujujujujujujujujujuju
 jujujujujujujujujujujujujujujuju
@@ -312,9 +327,11 @@ jujujujujujujujujujujujujujujuju
 jujujujujujujujujujujujujujujuju
 jujujujujujujujujujujujujujujuju
 jujujujujujujujujujujujujujujuju
+```
 
 2^256-1:
 
+```
 jujujujujujujujujujujujujujujuju
 jujujujujujujujujujujujujujujuju
 jujujujujujujujujujujujujujujuju
@@ -331,7 +348,8 @@ jujujujujujujujujujujujujujujuju
 jujujujujujujujujujujujujujujuju
 jujujujujujujujujujujujujujujuju
 jujujujujujujujujujujujujujujuju
- 
+```
+
 ...
 
 # Arbitrary Numbers: Exact Symbolic Computation for Python
